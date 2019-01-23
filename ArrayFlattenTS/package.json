@@ -1,0 +1,22 @@
+{
+  "name": "arrayflattents",
+  "version": "1.0.0",
+  "description": "Flattens an arbitrarily nested set of integer arrays",
+  "main": "src/the-flattener.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/jasmine": "^3.3.7",
+    "jasmine": "^3.3.1",
+    "jasmine-core": "^3.3.0",
+    "karma": "^4.0.0",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-jasmine": "^2.0.1",
+    "karma-typescript": "^3.0.13",
+    "typescript": "^3.2.4"
+  },
+  "scripts": {
+    "test": "karma start"
+  },
+  "author": "Robert Simmons",
+  "license": "ISC"
+}
